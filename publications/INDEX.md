@@ -2,7 +2,7 @@
 
 # Adsl
 
-## [A Domain Specific Language & Toolset for Requirements Analysis of Safety-Critical Cyber-Physical Systems](./Requirements_elicitation.pdf)
+### [A Domain Specific Language & Toolset for Requirements Analysis of Safety-Critical Cyber-Physical Systems](./Requirements_elicitation.pdf)
 
 **Authors:** Freek van den Berg, Boudewijn R Haverkort
 
