@@ -1,4 +1,4 @@
-# Publications by Category
+# Publications
 
 # Adsl
 
