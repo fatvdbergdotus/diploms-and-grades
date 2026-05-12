@@ -9,5 +9,5 @@
 - [Bachelor Information Science](diploms/Bachelor%20Information%20Science.pdf) (cum laude)
 - [Master Information Science](diploms/Master%20Information%20Science.pdf) (cum laude)
 - [Master Computer Science](diploms/Master%20Computing%20science.pdf)
-## Udemy
+## Udemy Cartificates
 - [Udemy Certificates](udemy/README.md)
