@@ -1,7 +1,7 @@
 # Publications, Diplomas, grades and certificates
 
 ## Publications
-- [All Publications](publications/README.md)
+- [All peer-reviewed Publications](publications/README.md)
 
 ## Diplomas from Radboud University Nijmegen with gradelist
 - [Propedeuse Information Science](diploms/Propedeuse%20Information%20Science.pdf) (cum laude)
