@@ -57,6 +57,7 @@ A curated list of my completed and ongoing courses across **Data Science, AI/ML,
 
 - ✅ [Graph Theory and its Algorithms](https://www.udemy.com/certificate/UC-b310fe83-1725-4b5e-b202-ed548410976c/)
 - ✅ [Build REST APIs with Spring Data REST & Spring Boot](https://www.udemy.com/certificate/UC-a84b895e-871d-469b-8bd3-8f67bc0ed322/)
+- ✅ [Move to Modern C++](https://www.udemy.com/certificate/UC-cc61cc6e-b359-4c0c-a688-670cc2a446b3/)
 - 🟡 JavaScript - The Complete Guide 2025 *(in progress)*
 - 🟡 MATLAB/Simulink Bible *(in progress)*
 
