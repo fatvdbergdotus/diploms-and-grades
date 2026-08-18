@@ -13,9 +13,9 @@ A curated list of my completed and ongoing courses across **Data Science, AI/ML,
 - ✅ [Data Science and Machine Learning Bootcamp with R](https://www.udemy.com/certificate/UC-470b4b3b-7061-4276-b475-0d9ce54fd11f/)
 - ✅ [SQL and PostgreSQL: The Complete Developer's Guide](https://www.udemy.com/certificate/UC-12eae7ca-b639-4af2-930e-025325796911/)
 - ✅ [Master Time Series Analysis and Forecasting with Python 2025](https://www.udemy.com/certificate/UC-42742705-a699-4607-908d-994a66060283/)
-- 🟡 Forecasting Models & Time Series Analysis for Business in R *(in progress)*
 - ✅ [Run Local LLMs with Ollama: From No-Code to Python Code](https://www.udemy.com/certificate/UC-2fe9bd92-90a0-4d9f-985c-72700a3237bc/)
 - ✅ [Bayesian Machine Learning in Python: A/B Testing](https://www.udemy.com/certificate/UC-d87c7bf1-963f-44bf-8300-9f1c0e52399a/)
+- 🟡 Forecasting Models & Time Series Analysis for Business in R *(in progress)*
 
 ---
 
@@ -39,9 +39,9 @@ A curated list of my completed and ongoing courses across **Data Science, AI/ML,
 - ✅ [CI/CD for Test Automation: Jenkins & GitHub Actions](https://www.udemy.com/certificate/UC-e68fc99e-fc6d-47a0-98f3-df3a5d3ad9ad/)
 - ✅ [Learn JMeter from Scratch on Live Apps](https://www.udemy.com/certificate/UC-69bdccfe-9c91-49b7-b2ca-aaf6b25b1ffc/)
 - ✅ [Mastering Performance Analysis with perf](https://www.udemy.com/certificate/UC-079c7270-54c3-4984-afb8-b7d1668f7e0d/)
+- ✅ [The Git & GitHub Bootcamp](https://www.udemy.com/certificate/UC-830c1f12-aeb1-476a-9347-f9760df66383/)
 - 🟡 Observability with Grafana, Prometheus, Loki, Alloy & Tempo *(in progress)*
 - 🟡 Playwright Python Automation Testing *(in progress)*
-- ✅ [The Git & GitHub Bootcamp](https://www.udemy.com/certificate/UC-830c1f12-aeb1-476a-9347-f9760df66383/)
 
 ---
 
