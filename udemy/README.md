@@ -49,7 +49,7 @@ A curated list of my completed and ongoing courses across **Data Science, AI/ML,
 
 - ✅ [Operations Management A-Z: Business Processes and Systems](https://www.udemy.com/certificate/UC-f6330645-0279-4c44-a615-20fbba85018c/)
 - ✅ [System Architecting & Model-Based Systems Engineering](https://www.udemy.com/certificate/UC-148036da-bc8e-46ad-ab6c-324f52429b65/)
-- ✅ [SysML® v1.7](https://www.udemy.com/certificate/UC-d396666f-4c90-4ab7-9299-c939b38a5763/})
+- ✅ [SysML® v1.7](https://www.udemy.com/certificate/UC-d396666f-4c90-4ab7-9299-c939b38a5763/)
 
 ---
 
