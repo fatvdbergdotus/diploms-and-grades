@@ -60,6 +60,8 @@ A curated list of my completed and ongoing courses across **Data Science, AI/ML,
 - ✅ [Move to Modern C++](https://www.udemy.com/certificate/UC-cc61cc6e-b359-4c0c-a688-670cc2a446b3/)
 - 🟡 JavaScript - The Complete Guide 2025 *(in progress)*
 - 🟡 MATLAB/Simulink Bible *(in progress)*
+- 🟡 Agile Fundamentals: Including Scrum & Kanban *(in progress)*
+
 
 ---
 
