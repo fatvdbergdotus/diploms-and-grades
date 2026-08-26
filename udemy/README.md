@@ -57,7 +57,7 @@ A curated list of my completed and ongoing courses across **Data Science, AI/ML,
 
 - 🟡 Agile Fundamentals: Including Scrum & Kanban *(in progress)*
 - 🟡 Complete Jira Course | Zero to Hero Tutorial & Guide *(in progress)*
-- 
+
 ---
 
 ## 🔧 Other Skills & Technologies
