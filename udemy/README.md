@@ -78,11 +78,3 @@ A curated list of my completed and ongoing courses across **Data Science, AI/ML,
 - 🟡 In Progress  
 
 ---
-
-## 🚀 Focus Areas
-
-- Data Science & Machine Learning  
-- Performance Engineering & Observability  
-- Python & High-Performance Computing  
-- Systems Thinking & Architecture  
-- Generative AI & LLMs  
