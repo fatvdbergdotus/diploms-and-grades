@@ -1,6 +1,6 @@
 # 📚 Certifications & Learning Journey
 
-A curated list of my completed and ongoing courses across **Data Science, AI/ML, Python, Systems, and Performance Engineering**.
+A curated list of my completed and ongoing courses across **Data Science, AI/ML, Python, Systems, Software engineering and Performance Engineering**.
 
 ---
 
