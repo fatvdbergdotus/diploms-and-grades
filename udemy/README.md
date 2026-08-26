@@ -55,7 +55,7 @@ A curated list of my completed and ongoing courses across **Data Science, AI/ML,
 
 ## 🧠 Software engineering
 
-- 🟡 [Agile Fundamentals: Including Scrum & Kanban](https://www.udemy.com/certificate/UC-57b90d62-68a0-402d-83f5-12e42f5946cd/)
+- ✅ [Agile Fundamentals: Including Scrum & Kanban](https://www.udemy.com/certificate/UC-57b90d62-68a0-402d-83f5-12e42f5946cd/)
 - 🟡 Complete Jira Course | Zero to Hero Tutorial & Guide *(in progress)*
 
 ---
