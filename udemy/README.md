@@ -28,6 +28,7 @@ A curated list of my completed and ongoing courses across **Data Science, AI/ML,
 - ✅ [Master Scientific Computing in Python with NumPy](https://www.udemy.com/certificate/UC-fb99483f-bd16-4c17-b831-13db8b1d1ed9/)
 - ✅ [Dynamic Programming: Python, Coding Interviews & Applications](https://www.udemy.com/certificate/UC-2e1b91f2-177e-4ce3-9dba-eab70866ac58/)
 - ✅ [High-Performance Computing with Python 3.x](https://www.udemy.com/certificate/UC-f640f14c-c7b8-48f8-8548-594f70f2e0de/)
+- ✅ [Automate Everything with Python](https://www.udemy.com/certificate/UC-5ad3448c-90a4-47c3-9c28-ad0427315905/)
 - 🟡 Python in Containers *(in progress)*
 
 ---
