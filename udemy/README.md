@@ -6,6 +6,7 @@ A curated list of my completed and ongoing courses across **Data Science, AI/ML,
 
 ## 🤖 Data Science, AI & Machine Learning
 
+- ✅ [AI Agents Bootcamp: Agentic Automation with Python & n8n](https://www.udemy.com/certificate/UC-f781682e-846a-4aeb-8145-a5c14807e775/)
 - ✅ [Neo4j: GraphDB Foundations with Cypher](https://www.udemy.com/certificate/UC-832a67fe-b789-43cc-86c1-60f4355cd956/)
 - ✅ [Process Mining Essentials](https://www.udemy.com/certificate/UC-2ed45cb4-2b3d-4c40-bcef-074532e42804/)
 - ✅ [Machine Learning, Data Science and Generative AI with Python](https://www.udemy.com/certificate/UC-0153804d-5a91-406a-a900-3c99a09a2ffe/)
